@@ -3,9 +3,9 @@
 #include <ArduinoJson.h>
 
 // constant
-const char* ssid = "mookki_2.4G";
-const char* password = "MooKKIE:";
-const char* mqtt_server = "192.168.1.33";
+const char* ssid = "WiFi's Name";
+const char* password = "WiFi's Password";
+const char* mqtt_server = "betterlight.local";
 const int mqtt_port = 1883;
 const char* mqtt_username = "";
 const char* mqtt_password = "";
