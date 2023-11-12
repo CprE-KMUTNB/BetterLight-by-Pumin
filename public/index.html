@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+    <title>BetterLight</title>
+</head>
+
+<body onload="onLoad()">
+    <div id="header"><img src="Assets/icon.png"><b>BetterLight</b></div>
+    <div id="body" align="center">
+        <!-- Status Display -->
+        <div class="section-head">Status</div>
+        <div id="status"></div>
+            <!-- Template for creating report box -->
+            <template id="report-temp">
+                <div class="report" id="light-bulb-1">
+                    <b>Light Bulb 1</b>
+                    <span>State:</span>
+                    <span>Color:</span>
+                    <span>Brightness:</span>
+                    <span>Color Temperature:</span>
+                    <img src="Assets/Light_ON.png">
+                </div>
+            </template>
+            
+        <!-- Control panel -->
+        <div class="section-head">Control Panel</div>
+        <div class="panel">
+            <button id="mode-1" onclick="changeMode(0)">ON</button>
+            <button id="mode-2" onclick="changeMode(1)">OFF</button>
+            <button id="mode-3" onclick="changeMode(2)">Toggle Light1</button>
+            <button id="mode-4" onclick="changeMode(3)">Toggle Light2</button>
+            <button id="mode-5" onclick="changeMode(4)">Normal</button>
+            <button id="mode-6" onclick="changeMode(5)">Relax</button>
+            <button id="mode-7" onclick="changeMode(6)">Work</button>
+            <button id="mode-8" onclick="changeMode(7)">Movie</button>
+        </div>
+    </div>
+</body>
+</html>
