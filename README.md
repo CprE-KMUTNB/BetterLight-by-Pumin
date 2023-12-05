@@ -2,7 +2,7 @@
 
 This is a mini project within the Software Development I course at KMUTNB. This project is about light control in a room.
 
-Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s6501012620063_kmutnb_ac_th/EQ8Y3XFvZ6RHqaU4NodkV2cBK84RMmgoY88TAV6mkM4y0w?e=VsQDXf">link to the report</a>.
+Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s6501012620063_kmutnb_ac_th/EQ8Y3XFvZ6RHqaU4NodkV2cBK84RMmgoY88TAV6mkM4y0w?e=VsQDXf" target="_blank" rel="noopener noreferrer">link to the report</a>.
 
 ---
 
@@ -36,7 +36,7 @@ Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s650101262
 ---
 ## Contributor
 <ul>
-  <li><a href="https://skyjt.vercel.app">SkyJTx (Nattakarn)</a></li>
-  <li><a href="https://github.com/12inNe">12inNe (Pumin)</a></li>
-  <li><a href="https://github.com/Rookies111">Rookies111 (Chaiyapat)</a></li>
+  <li><a href="https://skyjt.vercel.app" target="_blank" rel="noopener noreferrer">SkyJTx (Nattakarn)</a></li>
+  <li><a href="https://github.com/12inNe" target="_blank" rel="noopener noreferrer">12inNe (Pumin)</a></li>
+  <li><a href="https://github.com/Rookies111" target="_blank" rel="noopener noreferrer">Rookies111</a></li>
 </ul>
