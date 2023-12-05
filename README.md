@@ -36,6 +36,13 @@ Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s650101262
 ## How to Run WebApp
 Install Node.js and necessary extension and type "node index.js" on the console to start
 
+## How to Import Node-Red JSON file
+1. Open Node-Red
+2. Open Menu and click import
+3. On clipboard menu choose JSON file or paste JSON directly
+4. than click import to get the flow
+5. done
+
 ## How to Run Arduino Remote
 1. Use Arduino IDE
 2. Install these libraries (PubSubClient, ArduinoJSON)
