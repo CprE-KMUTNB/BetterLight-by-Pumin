@@ -33,7 +33,7 @@ Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s650101262
     - Portainer.io Community Edition (Version 2.19.1 or newer)
     - Zigbee2MQTT (Latest version)
 
-## How to run WebApp
+## How to Run WebApp
 Install Node.js and necessary extension and type "node index.js" on the console to start
 
 ## How to Run Arduino Remote
