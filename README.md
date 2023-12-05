@@ -2,7 +2,7 @@
 
 This is a mini project within the Software Development I course at KMUTNB. This project is about light control in a room.
 
-Here the <a href="https://github.com/SkyJTx/SoftDev-I-MiniProject](https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s6501012620063_kmutnb_ac_th/EQ8Y3XFvZ6RHqaU4NodkV2cBK84RMmgoY88TAV6mkM4y0w?e=VsQDXf)">link to the report</a>.
+Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s6501012620063_kmutnb_ac_th/EQ8Y3XFvZ6RHqaU4NodkV2cBK84RMmgoY88TAV6mkM4y0w?e=VsQDXf">link to the report</a>.
 
 ---
 
