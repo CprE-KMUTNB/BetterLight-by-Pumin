@@ -36,6 +36,15 @@ Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s650101262
 ## How to run WebApp
 Install Node.js and necessary extension and type "node index.js" on the console to start
 
+## How to Run Arduino Remote
+1. Use Arduino IDE
+2. Install these libraries (PubSubClient, ArduinoJSON)
+3. Create a new sketch
+4. Copy the code
+5. Plug the board (Make sure pins must be set properly)
+6. Upload
+7. Done
+
 ---
 ## Contributor
 <ul>
