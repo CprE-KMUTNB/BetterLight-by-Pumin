@@ -38,5 +38,5 @@ Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s650101262
 <ul>
   <li><a href="https://skyjt.vercel.app">SkyJTx (Nattakarn)</a></li>
   <li><a href="https://github.com/12inNe">12inNe (Pumin)</a></li>
-  <li><a href="https://github.com/Rookies111">Rookies111</a></li>
+  <li><a href="https://github.com/Rookies111">Rookies111 (Chaiyapat)</a></li>
 </ul>
