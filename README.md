@@ -57,5 +57,5 @@ Install Node.js and the necessary extension and type "node index.js" on the cons
 <ul>
   <li><a href="https://skyjt.vercel.app" target="_blank" rel="noopener noreferrer">SkyJTx (Nattakarn)</a></li>
   <li><a href="https://github.com/12inNe" target="_blank" rel="noopener noreferrer">12inNe (Pumin)</a></li>
-  <li><a href="https://github.com/Rookies111" target="_blank" rel="noopener noreferrer">Rookies111</a></li>
+  <li><a href="https://github.com/Rookies111" target="_blank" rel="noopener noreferrer">Rookies111 (Chaiyapat)</a></li>
 </ul>
