@@ -34,18 +34,18 @@ Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s650101262
     - Zigbee2MQTT (Latest version)
 
 ## How to Run WebApp
-Install Node.js and necessary extension and type "node index.js" on the console to start
+Install Node.js and the necessary extension and type "node index.js" on the console to start
 
 ## How to Import Node-Red JSON file
-1. Open Node-Red
+1. Open Node-RED
 2. Open Menu and click import
-3. On clipboard menu choose JSON file or paste JSON directly
-4. than click import to get the flow
-5. done
+3. On the clipboard menu choose JSON file or paste JSON directly
+4. Then click import to get the flow
+5. Done
 
 ## How to Run Arduino Remote
-1. Use Arduino IDE
-2. Install these libraries (PubSubClient, ArduinoJSON)
+1. Open Arduino IDE
+2. Install these libraries (PubSubClient, ArduinoJSON, WiFi101)
 3. Create a new sketch
 4. Copy the code
 5. Plug the board (Make sure pins must be set properly)
