@@ -3,7 +3,7 @@
 This is a mini project within the Software Development I course at KMUTNB. This project is about light control in a room.
 
 ---
-
+## How to upload the code to the board
 1. Use Arduino IDE
 2. Install these libraries (PubSubClient, ArduinoJSON)
 3. Create a new sketch
