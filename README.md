@@ -1,6 +1,7 @@
 # BetterLight - Software Development I Mini Project
 
-This is a mini project within the Software Development I course at KMUTNB. This project is about light control in a room. You can look at all branches which is components of this mini project.
+This is a mini project within the Software Development I course at KMUTNB. This project controls light bulbs with Arduino ESP32, WebApp, and Zigbee switches in a room.
+You can look at all branches which are components of this mini project.
 
 Here the <a href="https://kmutnbacth-my.sharepoint.com/:w:/g/personal/s6501012620063_kmutnb_ac_th/EQ8Y3XFvZ6RHqaU4NodkV2cBK84RMmgoY88TAV6mkM4y0w?e=VsQDXf" target="_blank" rel="noopener noreferrer">link to the report</a>.
 
